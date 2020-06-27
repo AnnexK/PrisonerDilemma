@@ -1,0 +1,12 @@
+{
+    "cc": 1,
+    "cd": 10,
+    "dc": 0,
+    "dd": 3,
+    "ttype": "basic",
+    "n": 1000000,
+    "contestants": [
+	"collaborator",
+	"defector"
+    ]
+}
